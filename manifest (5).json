@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TGA Toledo Golf Association",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "TGA Golf",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
